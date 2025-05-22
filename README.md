@@ -5,7 +5,7 @@
  
 ## Approach
 
-![SGPN](https://github.com/mioyeah/FDA-GAN/blob/main/data/FDA-GAN.jpg)
+![SGPN](https://github.com/mioyeah/SGPN/blob/main/fig1.jpg)
 
 ##  Panoptic studio datasets
 [http://domedb.perception.cs.cmu.edu/]
